@@ -7,8 +7,6 @@ print('X')
 print('Y')
 print('Z')
 
-
-
 #penggunaan sparator
 w,x,y,z= 10,15,20,25
 print(w,x,y,z)

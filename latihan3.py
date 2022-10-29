@@ -1,3 +1,5 @@
+#membuat program menggunakan string formating
+print("hello ini script python")
 print("      *       ")
 print("     ***      ")
 print("    *****     ")
